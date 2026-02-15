@@ -1,0 +1,8 @@
+{
+  "incident_type": "Account Compromise",
+  "signals": "Multiple failed logins, unusual IP login, privilege escalation",
+  "anomaly_score": 0.82,
+  "systems_affected": 0.8,
+  "asset_criticality": 0.75,
+  "event_frequency": 0.6
+}
