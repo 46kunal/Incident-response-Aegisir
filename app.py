@@ -1,6 +1,11 @@
 import streamlit as st
 import json
-from detection_engine import run_detection_pipeline
+from core.pipeline import run_detection_pipeline
+from security.validator import (
+    validate_file_size,
+    validate_logs
+)
+
 
 # ----------------------------
 # Page Config
@@ -43,9 +48,23 @@ network_file = st.sidebar.file_uploader(
 if auth_file and endpoint_file and network_file:
 
     try:
+         # 🔐 File size validation
+        validate_file_size(auth_file)
+        validate_file_size(endpoint_file)
+        validate_file_size(network_file)
+
+        # 🔐 Safe JSON loading
         auth_logs = json.loads(auth_file.getvalue().decode("utf-8"))
         endpoint_logs = json.loads(endpoint_file.getvalue().decode("utf-8"))
         network_logs = json.loads(network_file.getvalue().decode("utf-8"))
+
+        # 🔐 Schema & structure validation
+        if isinstance(auth_logs, dict) and "logs" in auth_logs:
+          auth_logs = auth_logs["logs"]
+
+        validate_logs(auth_logs)
+        validate_logs(endpoint_logs)
+        validate_logs(network_logs)
 
         st.sidebar.success("✅ Logs uploaded successfully.")
 
