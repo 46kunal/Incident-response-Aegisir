@@ -1,0 +1,716 @@
+[
+    {
+        "timestamp": "2026-02-16T01:38:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:49:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:08:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:08:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:53:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:55:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:43:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:18:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:46:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:47:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:11:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:14:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:57:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:14:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:25:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:53:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:05:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:19:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:44:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:26:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:22:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:16:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:11:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:30:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:12:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:30:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:01:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:36:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:28:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:07:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:33:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:25:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:24:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:41:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:48:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:27:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:42:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:18:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:13:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:26:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:49:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:04:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:56:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:06:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:58:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:23:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:30:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:13:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:09:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:00:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:03:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:14:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:32:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:42:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:27:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:46:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:10:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:50:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:24:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:24:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:13:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:19:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:26:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:37:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:56:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:57:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:39:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:28:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:17:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:37:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:58:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:51:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:17:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:11:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:59:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:47:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:39:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:56:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:31:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:51:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:05:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:41:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:51:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:55:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:04:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:32:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:21:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:44:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:55:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T04:18:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:49:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:16:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T03:20:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T05:12:45.901116",
+        "user": "user_2",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:36:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:52:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:49:45.901116",
+        "user": "user_4",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T00:57:45.901116",
+        "user": "user_1",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T01:25:45.901116",
+        "user": "user_5",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T02:07:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": false
+    },
+    {
+        "timestamp": "2026-02-16T07:22:45.901116",
+        "user": "user_3",
+        "event_type": "privilege_escalation",
+        "asset": "server_A",
+        "sensitive_access": true
+    },
+    {
+        "timestamp": "2026-02-16T07:24:45.901116",
+        "user": "user_3",
+        "event_type": "file_access",
+        "asset": "server_A",
+        "sensitive_access": true
+    }
+]

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+aegisir/
+venv/
+.env/
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
